@@ -8,6 +8,7 @@ and implementing it as apart of financial analysis.
 - 💞️ I’m looking to collaborate on Data Analysis Projects. 
 - 📫 How to reach me-
 - Email- olichk2004@gmail.com
+- Linkedin- https://www.linkedin.com/in/olipriya-chakraborty-52a7631b5/
 
 <!---
 dataoli22/dataoli22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

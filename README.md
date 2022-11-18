@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @dataoli22
 - My real name is Olipriya Chakraborty and I am a first year student from the Symbiosis School of Economics, India.
 - 👀 I’m interested in Data Science. My wish is to work as a Data Analyst specialising in Finance. I am also very interested in Deep Learning and Machine Learning 
-and implementing it as apart of financial analysis.
+and implementing it as a part of financial analysis.
 - I am proficient in Python, R, SQL and Microsoft Excel.
-- Other than that, I have learned C, Java and JavaScript.
+- Other than that, I have learned CSS HTML, C, Java and JavaScript.
 - 🌱 I’m currently learning Machine Learning using PyTorch and working on my data analysis skillsets using various libraries of Python.
 - 💞️ I’m looking to collaborate on Data Analysis Projects. 
 - 📫 How to reach me-
